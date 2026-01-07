@@ -1,0 +1,11 @@
+{
+    "name": "youtubei-es6",
+    "version": "1.0.0",
+    "description": "YouTube extractor from WD-40 bot converted to ES6",
+    "main": "youtubeiExtractor.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
